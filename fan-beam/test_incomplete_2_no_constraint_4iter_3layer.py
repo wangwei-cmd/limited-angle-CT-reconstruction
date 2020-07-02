@@ -91,7 +91,7 @@ Lb=len(beta)
 LL=217
 iternum=4
 Model = net.Aiteration(iternum, AT, A, Ac, w_c,alpha,Lb,LL, out_size=(256, 256))
-ckpt='./512x512/limited-angles/weights/fanbeam/incomplete_2_no_constraint_4iter_3layer'
+ckpt='./ckpt/incomplete_2_no_constraint_4iter_3layer'
 
 L=len(u_ini_img)
 
