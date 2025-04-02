@@ -1,4 +1,5 @@
 # limited-angle-CT-reconstruction
+Codes for paper "A model-based deep network for limited-angle computed tomography image reconstruction", Displays 73 (2022) 102166.
 The codes implement the netowrks for the limited-angle CT image reconstructions under parallel-beam and fan-beam geometries.
 The codes are written based on tensorflow 2.0.
 
